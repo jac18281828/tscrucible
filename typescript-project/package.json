@@ -1,0 +1,28 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "A TypeScript project",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yourusername/typescript-project.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/typescript-project/issues"
+  },
+  "homepage": "https://github.com/yourusername/typescript-project#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}

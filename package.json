@@ -1,0 +1,28 @@
+{
+  "name": "tscrucible",
+  "version": "1.0.0",
+  "description": "TypeScript playground",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "hello": "node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jac18281828/tscrucible.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "John Cairns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jac18281828/tscrucible/issues"
+  },
+  "homepage": "https://github.com/jac18281828/tscrucible#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "5.8.3"
+  }
+}
