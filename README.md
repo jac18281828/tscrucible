@@ -8,13 +8,13 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:yourusername/typescript-project.git
-   cd typescript-project
+   git clone git@github.com:jac18281828/tscrucible.git
+   cd tscrucible
    ```
 
 2. **Install dependencies:**
    ```bash
-   npm install
+   bun install --include=dev
    ```
 
 3. **Build the project:**
